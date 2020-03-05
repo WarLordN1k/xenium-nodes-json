@@ -1,5 +1,12 @@
 {
-  "nodes": [  
+  "nodes": [
+    {
+        "name": "WarLordN1k",
+        "url": "142.44.170.16",
+        "port": 32779,
+        "ssl": false,
+        "cache": false
+    },
     {
         "name": "Waterdev",
         "url": "git.jitbit.de",
